@@ -9,5 +9,4 @@
 
 ### Stats ⚡
 
-[![Adoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=adonitakos&count_private=true&show_icons=true)](https://github.com/adonitakos/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adonitakos&layout=compact)](https://github.com/adonitakos/github-readme-stats)
+[![Adoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=adonitakos&count_private=true&show_icons=true)](https://github.com/adonitakos/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adonitakos&layout=compact)](https://github.com/adonitakos/github-readme-stats)
