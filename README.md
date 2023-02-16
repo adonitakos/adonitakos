@@ -6,6 +6,3 @@
 :point_right: Check out my [website](https://adonitakos.github.io/Personal-Website/)! <br>
 :envelope: And feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/antonios-f-takos/)!
 
-
-### Stats ⚡
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adonitakos&layout=compact)](https://github.com/adonitakos/github-readme-stats)
